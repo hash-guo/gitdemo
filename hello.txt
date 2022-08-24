@@ -1,4 +1,6 @@
+
 hello git! master
+hello git! hot fix
 hello git!
 hello git!
 hello git!
@@ -9,9 +11,7 @@ hello git!
 hello git!
 hello git!
 hello git!
-hello git!
-hello git!
-hello git!
-hello git!
+hello git! HOT FIX
+hello git! master
 2222222
 3333333
